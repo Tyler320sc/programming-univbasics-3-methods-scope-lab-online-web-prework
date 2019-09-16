@@ -13,10 +13,10 @@ end
 
 
 def any_phrase(phrase)
-  puts any_phrase 
+  puts any_phrase = "We are Oscar Mike, over!" 
 end 
 
-any_phrase("We are Oscar Mike, over.")
+
 
 
 
