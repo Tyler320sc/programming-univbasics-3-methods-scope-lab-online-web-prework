@@ -11,9 +11,11 @@ def link
   puts armed = "It's Dangerous To Go Alone! Take This."
 end 
 
+def any_phrase(phrase)
+  
+end 
 
-
-
+any_phrase("We are Oscar Mike, over.")
 
 
 
